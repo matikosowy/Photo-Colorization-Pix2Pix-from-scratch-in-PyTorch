@@ -19,6 +19,8 @@ To achieve the goal I will use a Pix2Pix architecture, first presented in 2016 i
 
 <h3>For the rest of the analysis head to <a href='Pix2PixColor.ipynb'>the notebook file.</a></h3>
 
+<h2>Gradio model's deploy</h2>
+https://huggingface.co/spaces/matikosowy/Photo_Colorizer
 
 <h2>Pix2Pix original paper</h2>
 <a href='https://arxiv.org/abs/1611.07004'>Image-to-Image Translation with Conditional Adversarial Networks - Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros</a>
